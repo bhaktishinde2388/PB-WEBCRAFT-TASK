@@ -86,7 +86,7 @@ function Bhakti() {
 
 
 {/* about/.............. */}
-<div className='w-96 mx-40 font-50'>
+<div className='w-96 mx-40 font-50 m-8'>
 <h1 className=' text-violet-500 font-semibold m-4'>ABOUT</h1>
 <h1 className='text-4xl text-black font-bold'>
 About 
@@ -117,6 +117,13 @@ Elevate your brand with PBwebcrafts – where every pixel tells a story, and eve
  <h1 className='bg-red-50 p-8 text-center text-black font-bold'>OUR HAPPY CLIENTS</h1>
 
 
+
+{/* contact */}
+<div className='bg-red-50 p-8 my-18'>
+  <h1 className=' text-violet-500 font-semibold  text-left'>CONTACT</h1>
+  <h1 className='text-3xl text-black font-bold'>Let’s Work Together</h1>
+
+</div>
 
    <Footer/>
     </>
