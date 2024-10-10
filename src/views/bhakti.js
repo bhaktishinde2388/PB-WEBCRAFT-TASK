@@ -111,7 +111,7 @@ Elevate your brand with PBwebcrafts – where every pixel tells a story, and eve
 <h1 className='text-center text-xl text-white m-5'>TESTIMONIALS</h1>
 <p className='text-center  text-white text-4xl font-bold'>Revolutionize your online landscape with PBwebcrafts. 
   From cutting-edge website development to dynamic digital marketing strategies, we're here to innovate your digital presence.</p>
-  <h1 className='Cr text-xl text-white m-5'>Where Vision Meets Pixels:</h1>
+  <h1 className='Cr text-xl text-white m-5 text-center'>Where Vision Meets Pixels:</h1>
 
  </div>
  <h1 className='bg-red-50 p-8 text-center text-black font-bold'>OUR HAPPY CLIENTS</h1>
@@ -119,12 +119,22 @@ Elevate your brand with PBwebcrafts – where every pixel tells a story, and eve
 
 
 {/* contact */}
-<div className='bg-red-50 p-8 my-18'>
+<div className='bg-red-50 p-8 my-14 flex'>
+  <div>
   <h1 className=' text-violet-500 font-semibold  text-left'>CONTACT</h1>
   <h1 className='text-3xl text-black font-bold'>Let’s Work Together</h1>
+  <p>pbwebcrafts22@gmail.com
+<br></br>
+phone: +91-8975434272,
+<br></br>
+             +91-8767487235</p>
 
 </div>
 
+<div>
+
+</div>
+</div>
    <Footer/>
     </>
   )
