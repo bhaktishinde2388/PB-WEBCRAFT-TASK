@@ -9,6 +9,8 @@ function Bhakti() {
   <>
   <Header/>
    
+
+   {/* heading.... */}
    <div className='bg-gradient-to-r from-indigo-100 via-purple-300 to-pink-100 p-6'>
     <h1 className='text-center font-bold text-5xl'>
       <span className='text-black'>PBwebcraft:</span><br></br>
@@ -22,6 +24,8 @@ function Bhakti() {
     </div>
    </div>
 
+
+{/*services..............  */}
    <div className='text-center p-6 '>
       <h2 className='text-center text-xl text-violet-600 m-5'>SERVICES</h2>
       <h1 className='text-4xl text-violet-700 font-bold '><span>We Will Give What WE </span>
@@ -62,21 +66,44 @@ function Bhakti() {
      </div>
    </div>
 
+
+{/* zero............ */}
 <div className='bg-black text-white p-8'>
   <h1 className='text-center font-bold text-4xl'>
   Just Every Journey Begin with ZERO
   </h1>
 
-  <div className='text-center font-bold m-2    flex text-5xl md:text-7xl'>
-    <h1 className='px-4' >  <span>2</span><br></br><span className='text-lg '>Years of Experience</span></h1>
-    <span className='px-4'>.</span>
-    <h1 className='px-4'>  <span>22</span><br></br><span className='text-lg'>Years of Experience</span></h1>
-    <span className=' px-4'>.</span>
-    <h1 className='px-4'>  <span>15</span><br></br><span className='text-lg'>Years of Experience</span></h1>
-    <span className=' px-4'>.</span>
-    <h1 className='px-4'>  <span>0</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+  <div className='text-center font-bold m-2    flex text-5xl md:text-7xl px-48'>
+    <h1 className='' >  <span>2</span><br></br><span className='text-lg '>Years of Experience</span></h1>
+    <span className=''>.</span>
+    <h1 className=''>  <span>22</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+    <span className=''>.</span>
+    <h1 className=''>  <span>15</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+    <span className=' '>.</span>
+    <h1 className=''>  <span>0</span><br></br><span className='text-lg'>Years of Experience</span></h1>
   </div>
 </div>
+
+
+{/* about/.............. */}
+<div className='w-96 mx-40 font-50'>
+<h1 className=' text-violet-500 font-semibold m-4'>ABOUT</h1>
+<h1 className='text-4xl text-black font-bold'>
+About 
+<br></br>
+  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (PBwebcrafts)
+</h1>
+
+<p className=' text-black '>At PBwebcrafts, we are the architects of your digital success. Specializing in website development and digital marketing, we bring innovation and creativity to the forefront. Our team is dedicated to crafting seamless online experiences that propel your brand forward. Whether it's through captivating websites or strategic digital campaigns, we transform ideas into impactful realities. With a passion for precision and a commitment to excellence, PBwebcrafts is your trusted partner for a thriving digital presence.
+
+Services:
+- Website Development
+- Digital Growth Solution
+- Application Devlopment
+
+Elevate your brand with PBwebcrafts – where every pixel tells a story, and every strategy builds success."</p>
+</div>
+
 
    <Footer/>
     </>
