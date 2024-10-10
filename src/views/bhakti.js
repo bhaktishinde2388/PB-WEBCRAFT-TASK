@@ -104,6 +104,19 @@ Services:
 Elevate your brand with PBwebcrafts – where every pixel tells a story, and every strategy builds success."</p>
 </div>
 
+{/* TESTIMONIALS
+ */}
+
+ <div className=' bg-violet-400 px-64 py-10'>
+<h1 className='text-center text-xl text-white m-5'>TESTIMONIALS</h1>
+<p className='text-center  text-white text-4xl font-bold'>Revolutionize your online landscape with PBwebcrafts. 
+  From cutting-edge website development to dynamic digital marketing strategies, we're here to innovate your digital presence.</p>
+  <h1 className='Cr text-xl text-white m-5'>Where Vision Meets Pixels:</h1>
+
+ </div>
+ <h1 className='bg-red-50 p-8 text-center text-black font-bold'>OUR HAPPY CLIENTS</h1>
+
+
 
    <Footer/>
     </>
