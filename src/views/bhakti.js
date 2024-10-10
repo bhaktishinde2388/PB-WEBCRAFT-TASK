@@ -75,12 +75,12 @@ function Bhakti() {
 
   <div className='text-center font-bold m-2    flex text-5xl md:text-7xl px-48'>
     <h1 className='' >  <span>2</span><br></br><span className='text-lg '>Years of Experience</span></h1>
-    <span className=''>.</span>
-    <h1 className=''>  <span>22</span><br></br><span className='text-lg'>Years of Experience</span></h1>
-    <span className=''>.</span>
-    <h1 className=''>  <span>15</span><br></br><span className='text-lg'>Years of Experience</span></h1>
-    <span className=' '>.</span>
-    <h1 className=''>  <span>0</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+    <span className='px-1'>.</span>
+    <h1 className='px-4'>  <span>22</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+    <span className=' px-4'>.</span>
+    <h1 className='px-4'>  <span>15</span><br></br><span className='text-lg'>Years of Experience</span></h1>
+    <span className=' px-4'>.</span>
+    <h1 className='px-4'>  <span>0</span><br></br><span className='text-lg'>Years of Experience</span></h1>
   </div>
 </div>
 
